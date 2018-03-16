@@ -1,0 +1,12 @@
+Enter worker ID: 1001
+Enter hourly rate: 12.5
+Enter number of work hours: 14
+Enter worker ID: 1002
+Enter hourly rate: 13
+Enter number of work hours: 30
+Enter worker ID: 1003
+Enter hourly rate: 15
+Enter number of work hours: 40
+Enter worker ID: 1004
+Enter hourly rate: 17
+Enter number of work hours: 30
